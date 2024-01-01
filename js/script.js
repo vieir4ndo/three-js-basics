@@ -35,7 +35,7 @@ const camera = new THREE.PerspectiveCamera(
     1000
 );
 
-const orbit = new OrbitControls(camera, renderer.domElement);
+const orbit = new THREE.OrbitControls(camera, renderer.domElement);
 
 camera.position.z = 5;
 camera.position.y = 2;
