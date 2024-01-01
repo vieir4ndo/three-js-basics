@@ -1,6 +1,6 @@
 // se nao me engano o robo precisa ser controlavel pelo teclado
 
-const alpha = 'http://virtual.lab.inf.uva.es:23062/three-js-basics/img/aideus.jpg';
+const alpha = 'http://virtual.lab.inf.uva.es:23172/three-js-basics/img/aideus.jpg';
 
 const renderer = new THREE.WebGLRenderer();
 
